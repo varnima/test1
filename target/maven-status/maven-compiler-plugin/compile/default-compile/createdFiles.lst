@@ -1,0 +1,6 @@
+com\example\webhooktest\model\SolutionRequest.class
+com\example\webhooktest\WebhookTestApplication.class
+com\example\webhooktest\config\AppConfig.class
+com\example\webhooktest\service\WebhookService.class
+com\example\webhooktest\model\WebhookRequest.class
+com\example\webhooktest\model\WebhookResponse.class
